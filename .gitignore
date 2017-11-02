@@ -1,0 +1,14 @@
+node_modules/
+android/app/build/
+ios/Build/
+ios/DerivedData/
+modules/react-native-status/android/build
+modules/react-native-status/ios/build
+modules/react-native-status/ios/RCTStatus/Statusgo.framework
+modules/react-native-status/ios/RCTStatus/target
+android/local.properties
+android/.gradle/
+.git/
+*/.DS_Store
+.DS_Store
+/android/build/
